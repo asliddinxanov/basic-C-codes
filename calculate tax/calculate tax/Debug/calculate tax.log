@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\xanovspc\documents\basic-c-codes\calculate tax\calculate tax\source.cpp(11): warning C4101: 'b': ローカル変数は 1 度も使われていません。
+  calculate tax.vcxproj -> C:\Users\XanovsPC\Documents\basic-C-codes\calculate tax\Debug\calculate tax.exe
